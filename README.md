@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Java and provides a solution.  The error occurs due to an incorrect loop condition, leading to an attempt to access an array element beyond its bounds. The solution shows how to correct the loop condition to prevent the exception.
